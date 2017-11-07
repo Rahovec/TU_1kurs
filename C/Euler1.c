@@ -15,7 +15,7 @@ int main(){
 			sum+=i;
 		}
 	}
-	printf("sum is:%d\n", sum);
+	printf("сумата е(sum is):%d\n", sum);
 
 	return 0;
 }
