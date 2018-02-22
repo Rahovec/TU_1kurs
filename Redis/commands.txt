@@ -1,0 +1,3 @@
+set foo "bar" - setva key foo sus stoinost bar
+
+keys '*' - list-va vsi4ki key-ove
