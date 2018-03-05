@@ -1,3 +1,7 @@
 set foo "bar" - setva key foo sus stoinost bar
 
 keys '*' - list-va vsi4ki key-ove
+
+LLEN - pokazva duljinata na izbran list
+
+LRANGE - displayva dannite v zadaden diapazon
